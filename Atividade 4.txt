@@ -1,6 +1,6 @@
 Atividade parte 1: Calcular a área e o perímetro de retangulo.
 import java.util.Scanner;
-public class Retangulo {
+public class CalcularRetangulo {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
