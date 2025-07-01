@@ -1,0 +1,29 @@
+Pergunta 1
+Variáveis:
+int, double, booleano e string
+
+Dados:
+Nome Completo - String
+Idade - int
+altura (em metros) - double
+Matriculado ou não - booleano
+Pergunta 2
+Variáveis:
+int, double, booleano e string
+
+Dados:
+Nome Produto - String
+Quantidade em estoque - int
+Preço unitário - double
+Disponibilidade para venda - booleano
+
+Pergunta 3 
+Variáveis:
+int, double, booleano e string
+
+Dados:
+Nome do Evento - String
+Número de participantes esperados - int
+Preço do ingresso - double
+Evento será presencial - booleano
+----------------------------------------------------
